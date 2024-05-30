@@ -26,10 +26,31 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4e45f926-8aa7-4354-8734-fa116e42d2eb</guid>
+      <guid>44bf31e7-777b-4d5d-9866-3299a9db75ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_02_Login_invalidHeaders</testCaseId>
+      <testCaseId>Test Cases/Create_Cart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0c08f684-32d7-4e3b-a7f2-2234627008a6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_33_MultisiteWithoutCart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b32afc17-c6d1-4c15-a053-e13c12d65716</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_34_MultisitewithCart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1820244f-e12b-481e-8be2-a6f727d55e45</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_35_MultisiteCartCheck</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -77,7 +98,7 @@
    <testCaseLink>
       <guid>f8056fc1-41be-46a5-9b3d-bfa1079e262b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/New Test Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -91,7 +112,7 @@
          <id>a59fbe7b-a626-4640-819d-d53615fa1893</id>
          <iterationEntity>
             <iterationType>RANGE</iterationType>
-            <value>1-4</value>
+            <value>1-3</value>
          </iterationEntity>
          <testDataId>Data Files/SessionManagement</testDataId>
       </testDataLink>
@@ -150,31 +171,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>44bf31e7-777b-4d5d-9866-3299a9db75ed</guid>
+      <guid>4e45f926-8aa7-4354-8734-fa116e42d2eb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create_Cart</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0c08f684-32d7-4e3b-a7f2-2234627008a6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_33_MultisiteWithoutCart</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b32afc17-c6d1-4c15-a053-e13c12d65716</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_34_MultisitewithCart</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1820244f-e12b-481e-8be2-a6f727d55e45</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_35_MultisiteCartCheck</testCaseId>
+      <testCaseId>Test Cases/TC_02_Login_invalidHeaders</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

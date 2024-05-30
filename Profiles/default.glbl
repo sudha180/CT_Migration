@@ -16,12 +16,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>['Mobile', 'App', 'Wap', 'Web']</initValue>
+      <initValue>['app', 'wap', 'web']</initValue>
       <name>channel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>['WS', 'GAP', 'LP', 'SBB', 'TRU']</initValue>
+      <initValue>['WS', 'GAP', 'LP', 'SBB', 'TRU', 'BR']</initValue>
       <name>brand</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

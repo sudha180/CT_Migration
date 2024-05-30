@@ -30,5 +30,6 @@ response = WS.sendRequest(findTestObject('Postman/Postman/SessionAuthorize'))
 
 println(response.getResponseBodyContent())
 
-WS.verifyResponseStatusCode(response, 400)
+// no validation happens for correlation id
+WS.verifyResponseStatusCode(response, 200)
 

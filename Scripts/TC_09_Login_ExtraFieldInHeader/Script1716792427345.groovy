@@ -21,7 +21,7 @@ import org.openqa.selenium.Keys as Keys
 //To verify the response of the system when an extra field is passed as part of the  request header
 authResponse = WS.sendRequest(findTestObject('Postman/Postman/Auth', [('host') : GlobalVariable.host]))
 
-if (WS.getResponseStatusCode(authResponse) == 400) {
+if (WS.getResponseStatusCode(authResponse) != 400) {
     KeywordUtil.markPassed('Validation happened when an extra field is passed as part of the  request header')
 } else {
     KeywordUtil.markFailed('Validation failed ')

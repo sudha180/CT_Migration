@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n\&quot;anonymousCartId\&quot; : \&quot;\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n\&quot;anonymousCartId\&quot; : \&quot;c7b41c98-80bb-43a4-8c4a-ffadc5989a8c\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;text/plain&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
