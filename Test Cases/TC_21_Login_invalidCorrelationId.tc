@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the response of the system when invalid correlation id is provided in the header</description>
+   <name>TC_21_Login_invalidCorrelationId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cfc27ce-6647-4200-851b-45202c0a74ee</testCaseGuid>
+</TestCaseEntity>

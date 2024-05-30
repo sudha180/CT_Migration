@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_27_Guest_Create_Invalid_DeviceID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75749ae9-ec2d-4bbc-a1c5-79229a4c2031</testCaseGuid>
+</TestCaseEntity>

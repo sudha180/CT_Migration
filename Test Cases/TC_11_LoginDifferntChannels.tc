@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11_LoginDifferntChannels</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42713903-881e-477b-8970-df15bff7635c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9170f96a-97ec-4073-8805-326b24890c9a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9170f96a-97ec-4073-8805-326b24890c9a</id>
+      <masked>false</masked>
+      <name>channelData</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_LoginInvalidAat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68e1f074-7d7b-41ee-a66c-f73e0584c61d</testCaseGuid>
+</TestCaseEntity>

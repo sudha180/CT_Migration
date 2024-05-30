@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_Login_ExtraFieldInHeader</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9a018c4-433b-4bdb-b4ee-555decc0887b</testCaseGuid>
+</TestCaseEntity>

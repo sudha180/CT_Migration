@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When invalid data is passed in all the headers</description>
+   <name>TC_02_Login_invalidHeaders</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>328658b9-ea22-4557-af1a-f0302f0978c0</testCaseGuid>
+</TestCaseEntity>

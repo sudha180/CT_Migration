@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the response of the system when invalid device id is provided in the header</description>
+   <name>TC_20_Login_InvalidDeviceId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6b5a10c-752c-4ec4-bad8-dcf3a60827a5</testCaseGuid>
+</TestCaseEntity>

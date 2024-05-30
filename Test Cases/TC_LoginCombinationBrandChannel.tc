@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the response of the system when valid data is sent in the request header to the auth service</description>
+   <name>TC_LoginCombinationBrandChannel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed96f827-823d-453e-ae5a-3c19c98970a4</testCaseGuid>
+</TestCaseEntity>
