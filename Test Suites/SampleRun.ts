@@ -206,17 +206,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>71cc8bac-e4be-49ba-9894-49449747ec4e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_09_Login_ExtraFieldInHeader</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>4d5e44ab-b4aa-4a62-95ba-1abd1e33e52b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_10_Login_AllMandHeaderEmpty</testCaseId>
+      <testCaseId>Test Cases/TC_09_Login_ExtraFieldInHeader</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -515,5 +508,12 @@
          <value>correlationid</value>
          <variableId>d78e4bb9-e114-4f9c-aacb-ffac7b8a0376</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>71cc8bac-e4be-49ba-9894-49449747ec4e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_09_Login_ExtraFieldInHeader</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
