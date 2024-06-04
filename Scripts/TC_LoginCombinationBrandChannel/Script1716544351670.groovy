@@ -18,11 +18,12 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 			//setting the header variables
-GlobalVariable.tempCid = "0d8b1074-6f95-4366-b1cd-f90abb8a9557"
+GlobalVariable.tempCid = "gp-9eeca621-8593-44d9-bb7a-f3f33548e2d8"
 
-GlobalVariable.tempAat = "ZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJakJHVFc5QlVrNHhRa05aVWw4eVFXZ3daa1JUZUNKOS5leUpvZEhSd2N6b3ZMMnhwZG1WeWNHOXZiQzVqYjIwdWJYZ3ZjSEp1SWpvaU1qSTROVGsxTXpjeE1pSXNJbWgwZEhCek9pOHZiR2wyWlhKd2IyOXNMbU52YlM1dGVDOXBjMU5wWjI1VmNDSTZabUZzYzJVc0ltbHpjeUk2SW1oMGRIQnpPaTh2Ykc5bmFXNHRjV0V5TG14cGRtVnljRzl2YkM1amIyMHViWGd2SWl3aWMzVmlJam9pWVhWMGFEQjhOalJoTW1JME9EZzFZVGMxTWpNeVptRXhaakU0Wm1ReElpd2lZWFZrSWpwYkltaDBkSEJ6T2k4dllYVjBhREF1YkdsMlpYSndiMjlzTG1OdmJTNXRlQ0lzSW1oMGRIQnpPaTh2YkdsMlpYSndiMjlzTFhGaE1pNTFjeTVoZFhSb01DNWpiMjB2ZFhObGNtbHVabThpWFN3aWFXRjBJam94TnpFMk1UZzFOVGsxTENKbGVIQWlPakUzTVRZeU56RTVPVFVzSW5OamIzQmxJam9pYjNCbGJtbGtJSEJ5YjJacGJHVWdaVzFoYVd3aUxDSmhlbkFpT2lKV1FrazFhR3BGTTNKMVNqbDRkVU5IV1dGdE9GbzVUMDEzUmpCbE5XdDZiU0o5LlhJZXJUV2p3N1ROT1hHNWY2TG1RcURQTFc1LVRKZ01BS2I3VUhxNmZNOVphdG0zVjJ4Rjd0cVB0Q1ROdlh4aldSSUhxRVRMY21QOXdCb1hKZ1l1QlRPZ3R0MXR3NkI1NU1QWlhuUEVyMkZqbl9McXMybkNkLTJWZU9CMlVNV0lHN09oc2lSQ0NtWVJMSzduSy1EMFBMY1dZVXl6MW5PZkY0Sm1XcWdBVWo5THUzbGVNR0RvRUtqRVJwNWtNbjJDNlNjcTh4T0pRN1RSR2R1c3J0MS1faVBOWlBJUWh2aTc1Q0pyR3RvZF9PMUQtYmloaWZFS3ZDXzZDRzZ0Vkl5MWx0N2VHa3hfLXlCMC13WlY4WWRwWFVrdWJMb0NGd0ZhWkpuckc0cFA4VFdvRUJ0a1dIWlJjclFleGZfNUJMX2NfVmg5RkxxZXczU05CeVI4NkZreVVyQQ=="
+GlobalVariable.AAT = "ZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJakJHVFc5QlVrNHhRa05aVWw4eVFXZ3daa1JUZUNKOS5leUpvZEhSd2N6b3ZMMnhwZG1WeWNHOXZiQzVqYjIwdWJYZ3ZjSEp1SWpvaU1qSTROVGsxTXpjeE1pSXNJbWgwZEhCek9pOHZiR2wyWlhKd2IyOXNMbU52YlM1dGVDOXBjMU5wWjI1VmNDSTZabUZzYzJVc0ltbHpjeUk2SW1oMGRIQnpPaTh2Ykc5bmFXNHRjV0V5TG14cGRtVnljRzl2YkM1amIyMHViWGd2SWl3aWMzVmlJam9pWVhWMGFEQjhOalJoTW1JME9EZzFZVGMxTWpNeVptRXhaakU0Wm1ReElpd2lZWFZrSWpwYkltaDBkSEJ6T2k4dllYVjBhREF1YkdsMlpYSndiMjlzTG1OdmJTNXRlQ0lzSW1oMGRIQnpPaTh2YkdsMlpYSndiMjlzTFhGaE1pNTFjeTVoZFhSb01DNWpiMjB2ZFhObGNtbHVabThpWFN3aWFXRjBJam94TnpFM016azBNRFk0TENKbGVIQWlPakUzTVRjME9EQTBOamdzSW5OamIzQmxJam9pYjNCbGJtbGtJSEJ5YjJacGJHVWdaVzFoYVd3aUxDSmhlbkFpT2lKV1FrazFhR3BGTTNKMVNqbDRkVU5IV1dGdE9GbzVUMDEzUmpCbE5XdDZiU0o5LkJ1SFBZcWg4UU42RlpmOHd5NXIwSFFuMWVzX3BZUVFsVW9qelk1RDFyMGVpWHpCR2hyaVVrRmhtalJnX2gyY0ltODJWZGFTOXppWThFbWdvNDJtbm1Wb01heGJ4SzN2QUFydXVVRndUd09YakxYTldybURGQ2p6aWRXa2dJZGdzcXFSbDN2cjRhXzFZd0JYc1ZJMVZkdjl4aGpHcVU4aFU1aS11azdhYk9pb2NvYk1nVFdleThPUDFHUzJ6THVLa25xVDdlOHBnM2JSVi04eTZlNFY4MDRncmZGdkZMZjNncHJzbnVLVE53LVdXMzhpa3UxdUdQNTJEWHQ1VW1IeEpCSC1yemk1VmJwa1RmVHVVYXRQTTJXTkZic1pjZ0x3YUdacnpxQm5XQ2NaZHctYTJoRmJOUll6MDI2Y0JvRUs3QjNtZV9ORjV2ZHNCR0I3bEVaVEhVUQ=="
 
 GlobalVariable.tempdeviceId = "02-128254519"
+
 
 			//**********For multisite WS and different channels ***********
 			//Assign a tempbrand empty GV the index value of the GV list Brand
@@ -30,7 +31,7 @@ GlobalVariable.tempdeviceId = "02-128254519"
 GlobalVariable.tempbrand = (GlobalVariable.brand[0]) //WS
 
 			//Assign a tempchannel empty GV the index value of the GV list channel
-GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //mobile
+GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //app
 
 			//Print the values of the list
 println(GlobalVariable.tempbrand)
@@ -44,7 +45,7 @@ WS.verifyResponseStatusCode(response, 200)
 
 WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
 
-GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //app
+GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //wap
 
 println(GlobalVariable.tempchannel)
 
@@ -54,17 +55,7 @@ println(response.getResponseBodyContent())
 
 WS.verifyResponseStatusCode(response, 200)
 
-GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //wap
-
-println(GlobalVariable.tempchannel)
-
-response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
-
-println(response.getResponseBodyContent())
-
-WS.verifyResponseStatusCode(response, 200)
-
-GlobalVariable.tempchannel = (GlobalVariable.channel[3]) //web
+GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //web
 
 println(GlobalVariable.tempchannel)
 
@@ -80,7 +71,7 @@ WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
 
 GlobalVariable.tempbrand = (GlobalVariable.brand[1]) //GAP
 
-GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //--------------------------mobile
+GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //app
 
 			//Print the values of the list
 println(GlobalVariable.tempbrand)
@@ -94,7 +85,7 @@ WS.verifyResponseStatusCode(response, 200)
 
 WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
 
-GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //--------------------------app
+GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //wap
 
 println(GlobalVariable.tempchannel)
 
@@ -104,17 +95,7 @@ println(response.getResponseBodyContent())
 
 WS.verifyResponseStatusCode(response, 200)
 
-GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //----------------------------wap
-
-println(GlobalVariable.tempchannel)
-
-response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
-
-println(response.getResponseBodyContent())
-
-WS.verifyResponseStatusCode(response, 200)
-
-GlobalVariable.tempchannel = (GlobalVariable.channel[3]) //---------------------------web
+GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //web
 
 println(GlobalVariable.tempchannel)
 
@@ -125,110 +106,17 @@ println(response.getResponseBodyContent())
 WS.verifyResponseStatusCode(response, 200)
 
 WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
-
-
 
 					//**********For multisite LP and different channels ***********
  
  GlobalVariable.tempbrand = (GlobalVariable.brand[2]) //LP
  
- GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //--------------------------mobile
- 
-			 //Print the values of the list
- println(GlobalVariable.tempbrand)
- println(GlobalVariable.tempchannel)
- 
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
- 
- WS.verifyResponseStatusCode(response, 200)
- 
- WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
- 
- GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //--------------------------app
- 
- println(GlobalVariable.tempchannel)
- 
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
- 
- WS.verifyResponseStatusCode(response, 200)
- 
- GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //----------------------------wap
- 
- println(GlobalVariable.tempchannel)
- 
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
- 
- WS.verifyResponseStatusCode(response, 200)
- 
- GlobalVariable.tempchannel = (GlobalVariable.channel[3]) //---------------------------web
- 
- println(GlobalVariable.tempchannel)
- 
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
- 
- WS.verifyResponseStatusCode(response, 200)
- 
- WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
- 
- 				//**********For multisite SBB and different channels ***********
-  
-  GlobalVariable.tempbrand = (GlobalVariable.brand[3]) //SBB
-  
-  GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //--------------------------mobile
-  
-			  //Print the values of the list
-  println(GlobalVariable.tempbrand)
-  println(GlobalVariable.tempchannel)
-  
-  response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
-  
-  println(response.getResponseBodyContent())
-  
-  WS.verifyResponseStatusCode(response, 200)
-  
-  WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
-  
-  GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //--------------------------app
-  
-  println(GlobalVariable.tempchannel)
-  
-  response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
-  
-  println(response.getResponseBodyContent())
-  
-  WS.verifyResponseStatusCode(response, 200)
-  
-  GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //----------------------------wap
-  
-  println(GlobalVariable.tempchannel)
-  
-  response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
-  
-  println(response.getResponseBodyContent())
-  
-  WS.verifyResponseStatusCode(response, 200)
-  
-  GlobalVariable.tempchannel = (GlobalVariable.channel[3]) //---------------------------web
-  
-  println(GlobalVariable.tempchannel)
-  
-  response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
-  
-  println(response.getResponseBodyContent())
-  
-  WS.verifyResponseStatusCode(response, 200)
-  
-  WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
-  
-  
+ GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //app
+
+			//Print the values of the list
+println(GlobalVariable.tempbrand)
+println(GlobalVariable.tempchannel)
+
 response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
 
 println(response.getResponseBodyContent())
@@ -237,54 +125,146 @@ WS.verifyResponseStatusCode(response, 200)
 
 WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
 
+GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //wap
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //web
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
+ 				//**********For multisite SBB and different channels ***********
+  
+  GlobalVariable.tempbrand = (GlobalVariable.brand[3]) //SBB
+  
+ GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //app
+
+			//Print the values of the list
+println(GlobalVariable.tempbrand)
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
+
+GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //wap
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //web
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
+  
+
+
 				//**********For multisite TRU and different channels ***********
  
  GlobalVariable.tempbrand = (GlobalVariable.brand[4]) //TRU
  
- GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //--------------------------mobile
+ GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //app
+
+			//Print the values of the list
+println(GlobalVariable.tempbrand)
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
+
+GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //wap
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //web
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
+
+//**********For multisite BR and different channels ***********
  
-			 //Print the values of the list
- println(GlobalVariable.tempbrand)
- println(GlobalVariable.tempchannel)
+ GlobalVariable.tempbrand = (GlobalVariable.brand[4]) //TRU
  
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
- 
- WS.verifyResponseStatusCode(response, 200)
- 
- WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
- 
- GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //--------------------------app
- 
- println(GlobalVariable.tempchannel)
- 
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
-  
- WS.verifyResponseStatusCode(response, 200)
- 
- GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //----------------------------wap
- 
- println(GlobalVariable.tempchannel)
- 
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
- 
- WS.verifyResponseStatusCode(response, 200)
- 
- GlobalVariable.tempchannel = (GlobalVariable.channel[3]) //---------------------------web
- 
- println(GlobalVariable.tempchannel)
- 
- response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
- 
- println(response.getResponseBodyContent())
- 
- WS.verifyResponseStatusCode(response, 200)
- 
- WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
- 
+ GlobalVariable.tempchannel = (GlobalVariable.channel[0]) //app
+
+			//Print the values of the list
+println(GlobalVariable.tempbrand)
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
+
+GlobalVariable.tempchannel = (GlobalVariable.channel[1]) //wap
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+GlobalVariable.tempchannel = (GlobalVariable.channel[2]) //web
+
+println(GlobalVariable.tempchannel)
+
+response = WS.sendRequest(findTestObject('Postman/Postman/AuthService-Valid Header'))
+
+println(response.getResponseBodyContent())
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.verifyElementPropertyValue(response, 'result.deviceId', '02-128254519')
  

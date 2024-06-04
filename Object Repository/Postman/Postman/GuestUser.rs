@@ -44,14 +44,22 @@
       <matchCondition>equals</matchCondition>
       <name>channel</name>
       <type>Main</type>
-      <value>mobile</value>
+      <value>web</value>
       <webElementGuid>2a9bb6bc-d9a6-4aef-bf94-d308469ee99b</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>correlationId</name>
+      <type>Main</type>
+      <value>0d8b1074-6f95-4366-b1cd-f90abb8a9557</value>
+      <webElementGuid>2702064d-030a-4c37-9e24-7ef8d4fe3c3e</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.5.5</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://34.31.57.114:8080/session/guest/create</restUrl>
+   <restUrl>${host}/session/guest/create</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -66,6 +74,20 @@
       <id>b94d3067-c56b-40d3-b510-4fd7519b246c</id>
       <masked>false</masked>
       <name>anony_cartid</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.host</defaultValue>
+      <description></description>
+      <id>a3455db8-f311-4d84-a7fe-189dfec00a6c</id>
+      <masked>false</masked>
+      <name>host</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.guestcarthost</defaultValue>
+      <description></description>
+      <id>29e47ae0-2c84-4999-ae87-e481498c40fb</id>
+      <masked>false</masked>
+      <name>guestcarthost</name>
    </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
