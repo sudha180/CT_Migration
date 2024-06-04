@@ -54,6 +54,42 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>06dcb3fa-130a-47cf-997b-1545a87dc586</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_11_LoginDifferntChannels</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a59fbe7b-a626-4640-819d-d53615fa1893</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/SessionManagement</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a59fbe7b-a626-4640-819d-d53615fa1893</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Channel</value>
+         <variableId>9170f96a-97ec-4073-8805-326b24890c9a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4d5e44ab-b4aa-4a62-95ba-1abd1e33e52b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_09_Login_ExtraFieldInHeader</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4e45f926-8aa7-4354-8734-fa116e42d2eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_02_Login_invalidHeaders</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>007abd28-9a0c-4fc1-9a4c-cf600127dfcb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -65,13 +101,6 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_21_Login_invalidCorrelationId</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d9010b64-5ac3-40ad-ad91-514af83249ed</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_22_Login_InvalidAat</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -94,35 +123,6 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_31_Guest_InvalidBody</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f8056fc1-41be-46a5-9b3d-bfa1079e262b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/New Test Case</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>06dcb3fa-130a-47cf-997b-1545a87dc586</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_11_LoginDifferntChannels</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>a59fbe7b-a626-4640-819d-d53615fa1893</id>
-         <iterationEntity>
-            <iterationType>RANGE</iterationType>
-            <value>1-3</value>
-         </iterationEntity>
-         <testDataId>Data Files/SessionManagement</testDataId>
-      </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>a59fbe7b-a626-4640-819d-d53615fa1893</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Channel</value>
-         <variableId>9170f96a-97ec-4073-8805-326b24890c9a</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>169de0f2-5bbb-4d4a-a6fa-7d3649597b5d</guid>
@@ -171,13 +171,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>4e45f926-8aa7-4354-8734-fa116e42d2eb</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_02_Login_invalidHeaders</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>60ab2e75-698c-46b7-a153-375bf6a2cd50</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -189,6 +182,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_02_NewLoginUser_SessionAuth</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d9010b64-5ac3-40ad-ad91-514af83249ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_22_Login_InvalidAat</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -206,10 +206,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4d5e44ab-b4aa-4a62-95ba-1abd1e33e52b</guid>
+      <guid>9b8ee867-a841-430f-abf6-510a154b0bdb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_09_Login_ExtraFieldInHeader</testCaseId>
+      <testCaseId>Test Cases/TC_10_Login_AllMandHeaderEmpty</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -508,12 +508,5 @@
          <value>correlationid</value>
          <variableId>d78e4bb9-e114-4f9c-aacb-ffac7b8a0376</variableId>
       </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>71cc8bac-e4be-49ba-9894-49449747ec4e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_09_Login_ExtraFieldInHeader</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

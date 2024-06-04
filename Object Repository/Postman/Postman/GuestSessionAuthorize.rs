@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n\&quot;anonymousCartId\&quot; : \&quot;c7b41c98-80bb-43a4-8c4a-ffadc5989a8c\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;&quot;,
   &quot;contentType&quot;: &quot;text/plain&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -20,7 +20,7 @@
       <matchCondition>equals</matchCondition>
       <name>Content-Type</name>
       <type>Main</type>
-      <value>application/json</value>
+      <value>text/plain</value>
       <webElementGuid>10475d61-22f8-434c-8c9d-b1354abdc00e</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
@@ -28,7 +28,7 @@
       <matchCondition>equals</matchCondition>
       <name>correlationId</name>
       <type>Main</type>
-      <value>0d8b1074-6f95-4366-b1cd-f90abb8a9557</value>
+      <value>${GlobalVariable.tempCid}</value>
       <webElementGuid>035d559f-40d3-48c6-a169-f9c1002682f3</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
@@ -36,7 +36,7 @@
       <matchCondition>equals</matchCondition>
       <name>brand</name>
       <type>Main</type>
-      <value>LP</value>
+      <value>${GlobalVariable.tempbrand}</value>
       <webElementGuid>1cd5df97-b13d-455a-8676-2733ac1672df</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
@@ -44,7 +44,7 @@
       <matchCondition>equals</matchCondition>
       <name>channel</name>
       <type>Main</type>
-      <value>web</value>
+      <value>${GlobalVariable.tempchannel}</value>
       <webElementGuid>72ec1d0e-94ae-47bc-819b-d985839be57b</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
@@ -59,7 +59,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://34.31.57.114:8080/session/guest/create</restUrl>
+   <restUrl>${host}/session/authorize</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
