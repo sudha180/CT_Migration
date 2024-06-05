@@ -4,6 +4,7 @@
    <name>TC_30_Guest_BodyAndHeaderMissing</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>443c8dc4-ee42-4717-ad42-e945edef8af5</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>

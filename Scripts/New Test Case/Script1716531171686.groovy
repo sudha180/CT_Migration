@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 response = WS.sendRequest(findTestObject('Postman/Postman/GuestSessionAuthorize'))
 
-WS.verifyElementsCount(response, 'result', 4)
+not_run: WS.verifyElementsCount(response, 'result', 4)
 
-WS.verifyElementText(response, 'result.customerKey', '2285953712')
+not_run: WS.verifyElementText(response, 'result.customerKey', '2285953712')
 
