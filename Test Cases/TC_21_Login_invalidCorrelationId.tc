@@ -4,5 +4,6 @@
    <name>TC_21_Login_invalidCorrelationId</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>8cfc27ce-6647-4200-851b-45202c0a74ee</testCaseGuid>
 </TestCaseEntity>

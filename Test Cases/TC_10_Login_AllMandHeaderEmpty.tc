@@ -4,5 +4,6 @@
    <name>TC_10_Login_AllMandHeaderEmpty</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>a2276a83-b111-4e3c-9589-5c8c9f9fa858</testCaseGuid>
 </TestCaseEntity>

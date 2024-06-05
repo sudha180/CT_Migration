@@ -4,6 +4,7 @@
    <name>TC_11_LoginDifferntChannels</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>42713903-881e-477b-8970-df15bff7635c</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>

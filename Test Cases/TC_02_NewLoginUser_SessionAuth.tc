@@ -4,5 +4,6 @@
    <name>TC_02_NewLoginUser_SessionAuth</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>dcafbd2c-68be-4841-9491-608f29e9c448</testCaseGuid>
 </TestCaseEntity>

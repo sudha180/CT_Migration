@@ -4,6 +4,7 @@
    <name>TC_15_Login_MissingDeviceID</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>6c952333-d443-4944-b344-5a7f50dc7098</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>

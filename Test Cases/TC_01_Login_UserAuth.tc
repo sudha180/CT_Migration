@@ -4,5 +4,6 @@
    <name>TC_01_Login_UserAuth</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>2f1a0a51-9632-4bfb-89c5-cc4b7cd693e0</testCaseGuid>
 </TestCaseEntity>

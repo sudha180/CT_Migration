@@ -3,14 +3,15 @@
    <description></description>
    <name>Guest</name>
    <tag></tag>
+   <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>a6586d07-5cf6-476a-9aaa-1e3387611aac</dataFileGUID>
-   <dataSourceUrl>C:\Users\SunithaChenna\OneDrive - Kognivera\Tracks2024\CommerceTools\SessionManagementScripts\TestData\datadriven.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\Automation\KogniveraGithub\Liverpool-Ecomm\LP-Services\datadriven 1.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Guest</sheetName>
+   <sheetName>TC_11</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

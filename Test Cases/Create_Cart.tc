@@ -4,5 +4,6 @@
    <name>Create_Cart</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>603a9684-3cad-4958-8ab5-55c297dbf39f</testCaseGuid>
 </TestCaseEntity>

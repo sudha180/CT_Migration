@@ -4,6 +4,7 @@
    <name>TC_29_Guest_MissingHeader</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>6bc03d54-4e87-4cbf-b518-5babd6cf7ef0</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>

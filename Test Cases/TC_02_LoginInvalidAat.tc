@@ -4,5 +4,6 @@
    <name>TC_02_LoginInvalidAat</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>68e1f074-7d7b-41ee-a66c-f73e0584c61d</testCaseGuid>
 </TestCaseEntity>
